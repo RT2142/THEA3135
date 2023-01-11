@@ -1,0 +1,13 @@
+.text{
+  color:#0581f5;
+  text-align: center;
+  font-size: 75px;
+  padding-top: 250px;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+}
